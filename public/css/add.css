@@ -10,14 +10,14 @@ main > div {
     width: 60vw;
 }
 form {
-    background-color: #696969c9;
+    background-color: #222121c9;
     padding: 20px;
     border-radius: 25px;
 
 }
 
 label {
-    color: white;
+    color: rgb(124, 144, 199);
 }
 
 form>div:last-child {

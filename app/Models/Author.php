@@ -11,7 +11,6 @@ class Author extends Model
     {
         return $this->hasMany(Book::class);
     }
-
     public static function addAuthor($data)
     {
         $author = new Author;
@@ -20,7 +19,6 @@ class Author extends Model
 
         return $author;
     }
-
     public static function updateAuthor($author, $data)
     {
         $author->name = $data['name'];
@@ -28,4 +26,6 @@ class Author extends Model
 
         return $author;
     }
+    
+    
 }

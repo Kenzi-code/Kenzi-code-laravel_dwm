@@ -1,7 +1,3 @@
-# Laravel
+https://youtu.be/jDwVkXVHIqg?t=36
 
-Faire une copie du ```.env.example``` et la nommer ```.env```, puis :
-```bash
-composer install
-php artisan migrate --seed
-```
+https://www.getpostman.com/collections/a1b70c9494da2b4b724f

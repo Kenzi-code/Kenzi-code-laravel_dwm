@@ -1,4 +1,4 @@
-insert into authors (id, name, updated_at, created_at) values (1, 'Ida Boyen', '6/4/2020', '8/30/2020');
+insert into authors (id, name, updated_at, created_at) values (1, 'Kenzi Bacetti', '6/4/2020', '8/30/2020');
 insert into authors (id, name, updated_at, created_at) values (2, 'Bethina Gealy', '5/3/2020', '9/4/2020');
 insert into authors (id, name, updated_at, created_at) values (3, 'Halsey Osbiston', '11/26/2020', '5/23/2020');
 insert into authors (id, name, updated_at, created_at) values (4, 'Lyell Fetterplace', '8/26/2020', '12/22/2020');

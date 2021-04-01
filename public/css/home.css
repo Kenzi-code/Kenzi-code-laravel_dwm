@@ -1,5 +1,7 @@
 img {
-    height: 80%;
+    height: 20%;
+    margin-top: 20%;
+    display: flex;
 }
 
 
